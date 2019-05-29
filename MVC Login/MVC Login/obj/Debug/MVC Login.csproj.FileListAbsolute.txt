@@ -1,0 +1,23 @@
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\MVC Login.csprojAssemblyReference.cache
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\MainWindow.g.cs
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\App.g.cs
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\MVC Login_MarkupCompile.cache
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\MVC Login_MarkupCompile.lref
+C:\Users\Er\source\repos\MVC Login\MVC Login\bin\Debug\MVC Login.exe.config
+C:\Users\Er\source\repos\MVC Login\MVC Login\bin\Debug\MVC Login.exe
+C:\Users\Er\source\repos\MVC Login\MVC Login\bin\Debug\MVC Login.pdb
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\MainWindow.baml
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\MVC Login.g.resources
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\MVC_Login.Properties.Resources.resources
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\MVC Login.csproj.GenerateResource.cache
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\MVC Login.csproj.CoreCompileInputs.cache
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\MVC Login.exe
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\MVC Login.pdb
+C:\Users\Er\source\repos\MVC Login\MVC Login\bin\Debug\EntityFramework.dll
+C:\Users\Er\source\repos\MVC Login\MVC Login\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Er\source\repos\MVC Login\MVC Login\bin\Debug\EntityFramework.xml
+C:\Users\Er\source\repos\MVC Login\MVC Login\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\Welcome.g.cs
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\Welcome.baml
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\MVC Login.csproj.CopyComplete
+C:\Users\Er\source\repos\MVC Login\MVC Login\obj\Debug\MVC_Login.Migrations.CreatingUserDb.resources
